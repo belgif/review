@@ -1,5 +1,6 @@
 # ICEG Review Group
 Mission statement and roles
+
 The review group ‘open standards’ has a permanent character and is responsible for the central coordination and follow-up of the work related to the standardisation of information.
 
 Mission aligned to the existing collaboration agreement between the federal, regional and community authorities (dd. 2013-08-26).
