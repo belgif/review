@@ -14,4 +14,5 @@ In addition, the working group monitors
 mutual consistency of standards, 
 international standards that impact governments in Belgium 
 generic development and the change process. 
+
 The working group on data standards gathers on a regular basis.
