@@ -10,5 +10,6 @@
 * Inspiration session on Core Public Service Vocabulary Application Profile (IMEC FAST innovation project): 
   * https://www.imec-int.com/nl/what-we-offer/research-portfolio/fast
   * https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/event/catalogue-services-webinar-sdg-metadata-model-11th-february-2020-1000-1200-cet
+* Proposal to launch a new thematic workgroup "Education"
 * Proposed decisions ICEG (CFWB)
 * Roadmap 2020
