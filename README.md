@@ -16,3 +16,5 @@ international standards that impact governments in Belgium
 generic development and the change process. 
 
 The working group on data standards gathers on a regular basis.
+
+Organizer of the review meeting (round-robin): BOSA => Flanders => CFWB
