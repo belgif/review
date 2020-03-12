@@ -37,7 +37,14 @@ The budget for which a decision in principle by the ICEG committee was obtained,
 Before hiring the needed consultants, each of these 4 parties needs to confirm their agreement with this proposal to Flanders (preferrably by end of March). After this agreement, it will take an additional 3 to 4 weeks before the thematic can really start.
 
 ### Topic: Trainings
-
+The review committee is interested in the approach presented by Flanders to organize profile based trainings (for CIO, business analyst and developer) to increase the awareness around data standardization and to build a capacity of ambassadors.
+The EU (ISA) and the academic world could be contacted to participate in this effort.
+The following steps will be followed in sequence:
+- inform the members of the ICEG committee and check if there are no objections
+- contact universities to see if they are interested in participating (first time free; if success, a training budget could be negotiated via the ICEG committee)
+- organize a sprint day where the available material of Flanders will be examined 
+- translation of the available material
+- target would be to organize a first training day in September this year
 
 ## Next meeting
 - next ICEG review committee on 2020-04-22 (organizer Flanders)
@@ -49,3 +56,5 @@ Before hiring the needed consultants, each of these 4 parties needs to confirm t
 - Thierry: obtain agreement from French and German speaking community on proposal for the thematic Education + confirm to Raf
 - Liesbet: obtain agreement from BOSA on proposal for the thematic Education + confirm to Raf
 - Marc: send a mail to the members of ICEG, explaining the plan for organizing ICEG trainings on data standardization (objections at the latest expected before 2020-04-13)
+- Raf: contact RUG and ULB to see if they are interested in joining the ICEG training day
+- Thierry: contact Walloon universities (e.g. Namur) to see if they are interested in joining the ICEG training day
