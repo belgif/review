@@ -5,18 +5,23 @@ Where: FOD BOSA
 
 ## Invitees and Attendees
 - BCED (EnsembleSimplifions)
-- BRIC (CIRB/CIBG):                    Alexander Hof
+- BRIC (CIRB/CIBG):                    
+-- Alexander Hof
 - BRPS (GOB/SPRB)
 - BruLocalis
 - CBE (FPS Economy - KBO/BCE)
 - CBSS (KSZ/BCSS)
-- CFWB: Thierry Brouwer
+- CFWB: 
+-- Thierry Brouwer
 - DGOV (Ostbelgien)
 - eHealth
-- FPS BOSA DG DT:                      Liesbet D'Hondt, Bart Hanssens, Marc Bruyland
-- FPS Finance:                         Wim Bonneux
+- FPS BOSA DG DT:                      
+-- Liesbet D'Hondt, Bart Hanssens, Marc Bruyland
+- FPS Finance:                         
+-- Wim Bonneux
 - IMIO
-- InformatieVlaanderen:                Raf Buyle
+- InformatieVlaanderen:                
+-- Raf Buyle
 - V-ICT-OR
 - VVSG
 
