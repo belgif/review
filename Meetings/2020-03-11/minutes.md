@@ -34,7 +34,7 @@ The review committee decides to work in 2 phases:
 
 ### Topic: Thematic on Education
 The budget for which a decision in principle by the ICEG committee was obtained, will come from BOSA and the 3 communities (Flanders, French speaking community, German speaking community). The proposal made by Flanders needs to be adapted in this way.
-Before hiring the needed consultants, each of these 4 parties needs to confirm their agreement with this proposal to Flanders (preferrably by end of March). After this agreement, it will take an additional 3 to 4 weeks before the thematic can really start.
+Before hiring the needed consultants, each of these parties needs to confirm their agreement with this proposal to Flanders (preferrably by end of March). After this agreement, it will take an additional 3 to 4 weeks before the thematic can really start.
 
 ### Topic: Trainings
 The review committee is interested in the approach presented by Flanders to organize profile based trainings (for CIO, business analyst and developer) to increase the awareness around data standardization and to build a capacity of ambassadors.
