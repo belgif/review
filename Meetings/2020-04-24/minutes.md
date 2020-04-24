@@ -23,12 +23,22 @@ Where: online
 
 ## Notes
 
-- CBE
-- Education
-- SDG steps / procedures
+### Identifiers for organizations / CBE
+
+Reminder is to be sent to BOSA management about whom to contact at CBE management level to formalize URIs for organizations (CBE would be a natural fit). And to decide who (BOSA ? CBE ?) will make sure that the URIs are indeed dereferencable, i.e. provide linked data.
+
+A minimal PoC of a reverse proxy was built and deployed by BOSA, see https://github.com/Fedict/lod-cbe/tree/master/cbe-proxy
+
+### Thematic WG Education
+
+The 3 Communities are willing to provide (financial) support to participate in the Thematic WG on education. At the federal level, BOSA is waiting for approval by the IF and the Counsil of Ministers.
+
+### PoC on a SDG steps / procedures 
 
 ## Next meeting
-
+ 
+ - tbd
+ 
 ## Actions
 - [ ] BOSA: send reminder about CBE / add documentation to proxy PoC
 - [ ] BOSA: check status at federal level on education proposal
