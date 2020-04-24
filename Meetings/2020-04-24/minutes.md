@@ -14,10 +14,10 @@ Where: online
 - [ ] CFWB
 - [ ] DGOV (Ostbelgien)
 - [ ] eHealth
-- [ ] FPS BOSA DG DT
+- [x] FPS BOSA DG DT
 - [ ] FPS Finance
 - [ ] IMIO
-- [ ] InformatieVlaanderen
+- [x] InformatieVlaanderen
 - [ ] V-ICT-OR
 - [ ] VVSG
 
