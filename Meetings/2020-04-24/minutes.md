@@ -23,10 +23,13 @@ Where: online
 
 ## Notes
 
-...
+- CBE
+- Education
+- SDG steps / procedures
 
 ## Next meeting
 
 ## Actions
-- [ ] All ...
+- [ ] BOSA: send reminder about CBE / add documentation to proxy PoC
+- [ ] BOSA: check status at federal level on education proposal
 ...
