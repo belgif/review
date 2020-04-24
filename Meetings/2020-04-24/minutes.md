@@ -32,4 +32,5 @@ Where: online
 ## Actions
 - [ ] BOSA: send reminder about CBE / add documentation to proxy PoC
 - [ ] BOSA: check status at federal level on education proposal
+- [ ] All: prepare new thematic WG on describing procedures and steps (re)using CPSV-AP, OSLO-steps etc 
 ...
