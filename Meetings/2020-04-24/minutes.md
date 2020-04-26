@@ -36,11 +36,13 @@ The 3 Communities are willing to provide (financial) support to participate in t
 
 ### PoC on SDG steps / procedures
 
-A PoC for the visualization of one of the procedures of the Single Digital Gateway is about to get started. The idea is to have a userfriendly view of the different steps in a procedure (e.g. moving abroad), pretty much like bPost track'n'trace, and to prompt the citizen for any additional data he/she may need to provide further down the road.
+A PoC for the visualization of one of the procedures of the Single Digital Gateway is about to get started at BOSA. The idea is to have a userfriendly view of the different steps in a procedure (e.g. moving abroad), pretty much like bPost track'n'trace, and to prompt the citizen for any additional data he/she may need to provide further down the road.
 
 There are probably two data flows:
-- one without personal data, about the procedure itself, the steps, the type of data/evidence needed... this could probably be implemented with linked open data
-- one with personal data, where a citizen can initiate a procedure, provide a limited amount of data (since most of the data should - in theory - already known by the governement i.e. via once-only principle) and follow the status on e.g. a website or in an app
+- one without personal data: semantically structered information about the procedure itself, the steps, the type of data/evidence needed... this could probably be implemented with linked open data, using existing vocabularies. This could be done somewhat decentralized, e.g. at the level of the various service integrators.
+- one with personal data: where a citizen can initiate a procedure, provide a limited amount of data (since most of the data should - in theory - already known by the governement i.e. via once-only principle) and follow the status on e.g. a website or in an app
+
+ICEG could help in promoting (and improving) the semantic descriptions of procedures withing and across public administrations.
 
 ## Next meeting
  
