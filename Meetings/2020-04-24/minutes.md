@@ -27,13 +27,20 @@ Where: online
 
 Reminder is to be sent to BOSA management about whom to contact at CBE management level to formalize URIs for organizations (CBE would be a natural fit). And to decide who (BOSA ? CBE ?) will make sure that the URIs are indeed dereferencable, i.e. provide linked data.
 
-A minimal PoC of a reverse proxy was built and deployed by BOSA, see https://github.com/Fedict/lod-cbe/tree/master/cbe-proxy
+A _very_ minimal PoC of a reverse proxy was built and deployed by BOSA, see https://github.com/Fedict/lod-cbe/tree/master/cbe-proxy
+(currently it only provides a minimal amount of data, and only for organizations, not for establishment units...yet)
 
 ### Thematic WG Education
 
 The 3 Communities are willing to provide (financial) support to participate in the Thematic WG on education. At the federal level, BOSA is waiting for approval by the IF and the Counsil of Ministers.
 
-### PoC on a SDG steps / procedures 
+### PoC on SDG steps / procedures
+
+A PoC for the visualization of one of the procedures of the Single Digital Gateway is about to get started. The idea is to have a userfriendly view of the different steps in a procedure (e.g. moving abroad), pretty much like bPost track'n'trace, and to prompt the citizen for any additional data he/she may need to provide further down the road.
+
+There are probably two data flows:
+- one without personal data, about the procedure itself, the steps, the type of data/evidence needed... this could probably be implemented with linked open data
+- one with personal data, where a citizen can initiate a procedure, provide a limited amount of data (since most of the data should - in theory - already known by the governement i.e. via once-only principle) and follow the status on e.g. a website or in an app
 
 ## Next meeting
  
