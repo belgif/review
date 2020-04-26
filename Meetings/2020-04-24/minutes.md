@@ -44,6 +44,10 @@ There are probably two data flows:
 
 ICEG could help in promoting (and improving) the semantic descriptions of procedures withing and across public administrations.
 
+### EC SDG / OOP work packages
+
+The European Commission is looking for experts from the Member States to participate in a few different SDG/OOP work packages (the work starts now, and ends somewhere in October). Please contact BOSA if your organization would be interested to obtain more info on these work packages.
+
 ## Next meeting
  
  - tbd
