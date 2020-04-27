@@ -50,7 +50,7 @@ The European Commission is looking for experts from the Member States to partici
 
 ## Next meeting
  
- - tbd
+ - tbd (organizer: CFWB)
  
 ## Actions
 - [ ] BOSA: send reminder about CBE / add documentation to proxy PoC
