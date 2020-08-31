@@ -42,4 +42,5 @@ Id | Ontology | Type | URI | Name | Definition
 Until now, the way the federal functional wg handled identifying properties such as the nrn (national registry number), was to allocate the same URI  <http://purl.org/dc/terms/identifier> to this property.
 The consequence was that a lot of identifying properties received the same generic URI.
 These identifying properties could then be used to construct a complex identifier together with a namespace and eventual version.
+
 KSZ would like to give a distinct URI to each identifying property instead of allocating a generic URI.
