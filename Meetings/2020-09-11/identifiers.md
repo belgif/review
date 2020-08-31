@@ -43,4 +43,4 @@ Until now, the way the federal functional wg handled identifying properties such
 The consequence was that a lot of identifying properties received the same generic URI.
 These identifying properties could then be used to construct a complex identifier together with a namespace and eventual version.
 
-KSZ would like to give a distinct URI to each identifying property instead of allocating a generic URI. (e.g. http://vocab.belgif.be/ns/person#nrn instead of <http://purl.org/dc/terms/identifier> )
+KSZ/BCSS would like to give a distinct URI to each identifying property instead of allocating a generic URI. (e.g. http://vocab.belgif.be/ns/person#nrn instead of <http://purl.org/dc/terms/identifier> )
