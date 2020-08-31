@@ -26,14 +26,10 @@ Id | Ontology | Name | Definition
 691 | Organization | employerId | Definitive or provisional NSSO number, assigned to each registered employer or local or provincial administration.
 231 | Organization | enterpriseNumber | Identifier issued by CBE for a registered organization
 232 | Organization | establishmentUnitNumber | Identifier issued by CBE for a site (establishment) of an organization 
-692 | Organization | nssoNumber | "Recommended best practice is to identify the resource by means of a string conforming to a formal identification system. 
-An unambiguous reference to the resource within a given context."
-693 | Organization | pplNumber | "Recommended best practice is to identify the resource by means of a string conforming to a formal identification system. 
-An unambiguous reference to the resource within a given context."
-694 | Organization | provisionalNssoNumber | "Recommended best practice is to identify the resource by means of a string conforming to a formal identification system. 
-An unambiguous reference to the resource within a given context."
-344 | Person | nrn | "Recommended best practice is to identify the resource by means of a string conforming to a formal identification system. 
-An unambiguous reference to the resource within a given context."
+692 | Organization | nssoNumber | "Recommended best practice is to identify the resource by means of a string conforming to a formal identification system. An unambiguous reference to the resource within a given context."
+693 | Organization | pplNumber | "Recommended best practice is to identify the resource by means of a string conforming to a formal identification system. An unambiguous reference to the resource within a given context."
+694 | Organization | provisionalNssoNumber | "Recommended best practice is to identify the resource by means of a string conforming to a formal identification system. An unambiguous reference to the resource within a given context."
+344 | Person | nrn | "Recommended best practice is to identify the resource by means of a string conforming to a formal identification system. An unambiguous reference to the resource within a given context."
 349 | Person | ssin | Social Security Identification Number issued by the National Register or CBSS
 
 ## Complex identifiers
