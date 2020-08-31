@@ -37,3 +37,9 @@ Id | Ontology | Type | URI | Name | Definition
 -- | -------- | ---- | --- | ---- | ----------
 256 | Generic | Class | <http://www.w3.org/ns/adms#Identifier> | Identifier | "This class is based on the UN/CEFACT Identifier complex type defined in See Section 5.8 of Core Components Data Type Catalogue Version 3.1 (http://www.unece.org/fileadmin/DAM/cefact/codesfortrade/CCTS/CCTS-DTCatalogueVersion3p1.pdf). In RDF this is expressed using the following properties: (1) the content string should be provided using skos:notation, datatyped with the identifier scheme (including the version number if appropriate); (2) use dcterms:creator to link to a class describing the agency that manages the identifier scheme or adms:schemaAgency to provide the name as a literal. Although not part of the ADMS conceptual model, it may be useful to provide further properties to the Identifier class such as dcterms:created to provide the date on which the identifier was issued."
 679 | Generic | Property | <http://www.w3.org/ns/adms#identifier> | identifier | "adms:identifier is used to link any resource to an instance of adms:Identifier which is its range. N.B. it is not appropriate to use dcterms:identifer to link to the Identifier class as its range is rdfs:Literal. ADMS uses this to provide any identifier for the Asset."
+
+## Problem
+Until now, the way the federal functional wg handled identifying properties such as the nrn (national registry number), was to allocate the same URI  <http://purl.org/dc/terms/identifier> to this property.
+The consequence was that a lot of identifying properties received the same generic URI.
+These identifying properties could then be used to construct a complex identifier together with a namespace and eventual version.
+KSZ would like to give a distinct URI to each identifying property instead of allocating a generic URI.
