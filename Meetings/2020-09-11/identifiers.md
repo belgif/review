@@ -16,7 +16,8 @@ Federal vocabulary standard:
 Id | Ontology | Type | URI | Name | Definition
 -- | -------- | ---- | --- | ---- | ----------
 687 | Generic | Property | <http://purl.org/dc/terms/identifier> | bic | Business Identifier Code, also known as Swift Code. International identifier for financial and non-financial institutions, commonly used for international bank transfers.
-685	Generic	Property	<http://purl.org/dc/terms/identifier>	iban	International Bank Account Number, as defined in ISO 13616:2007
+685 | Generic | Property | <http://purl.org/dc/terms/identifier> | iban | International Bank Account Number, as defined in ISO 13616:2007
+
 680	Generic	Property	<http://purl.org/dc/terms/identifier>	identifier	" | Recommended best practice is to identify the resource by means of a string conforming to a formal identification system. 
 An unambiguous reference to the resource within a given context."
 686	Location	Property	<http://purl.org/dc/terms/identifier>	municipalityCode	Numeric code to identify a Belgian municipality.
