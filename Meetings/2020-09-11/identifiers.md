@@ -44,3 +44,10 @@ The consequence was that a lot of identifying properties received the same gener
 These identifying properties could then be used to construct a complex identifier together with a namespace and eventual version.
 
 KSZ/BCSS would like to give a distinct URI to each identifying property instead of allocating a generic URI. (e.g. http://vocab.belgif.be/ns/person#nrn instead of <http://purl.org/dc/terms/identifier> )
+
+Additional info from KSZ/BCSS:
+Some justification why separate URIs for the types of identifiers:
+*	To designate the type of an identifier value and its associated semantics
+  * The listed identifiers have a specific structure, granting authority, lifecycle, etc. The generic identifier (http://purl.org/dc/terms/identifier) doesn’t convey this information. These identifiers are also used in various analogue ways e.g. paper input forms, and the national number on the eID card.
+*	To differentiate between different identifiers for the same entity: e.g. nrn (BE), bsn (NL) for the same person
+Note that at CBSS, we don’t have a practical use case for any of the URIs at the moment because we don’t have an application using Linked Data. Though I think specific URIs would be needed if we would.
