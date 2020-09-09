@@ -1,7 +1,7 @@
 # Minutes
 When: 2020-09-11
 
-Where: virtual meetings
+Where: virtual meeting
 
 ## Attendees
 
