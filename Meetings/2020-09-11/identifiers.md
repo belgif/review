@@ -62,32 +62,42 @@ The identifier challenges — as discussed in https://github.com/belgif/review/b
 As pointed out, there are two main approaches for identifiers:
 *    a) without provenance knowledge
 *    b) with provenance knowledge
+
 Case a) is covered by the dct:identifier URI mapping, while b) is adms:identifier mapping.
- 
+
+
 In data exchanges, the need for one or both can exist. The implementation choice depends on the use-cases. It is both valid and correct approaches. 
 So both need support. [*see below]
  
 However there are two other discussion items that also have impact:
 *   c) design of identifiers
 *   d) dereferenceable identifiers
- 
+
+
 The design of identifiers corresponds to the table "Simple identifiers" (I would suggest renaming the table to designed/scoped identifiers, they are not that simple).  The table shows that for many entities an special designed identifier is created, tightening the existence of the entity to have an identifier according to that design. E.g. A bank account only exists if it has a IBAN number, but given an IBAN number we have a bank account. 
 This design can be expressed e.g. as a custom XSD description. 
  
 Now if one designs a payload then the implicit constraint that the identifier of the entity should follow the design of the identifier, is often made explicit via augmenting the label of the identifier with the indication of the desired design.  That is a human aid, not a machine aid. For the machine, the custom XSD description should be connected with that property. In the issue https://github.com/belgif/fedvoc/issues/10, one of the suggestions is to use than an identifier with provenance knowledge. 
  
 Example: 
- g
+
+
 without provenance knowledge:
 
  ex:bartbankaccount dct:identifier "BE94123412341234" 
- 
+
+
 with provenance knowledge
-   ex:bartbankaccount adms:identifier [
-        skos:notation "BE94123412341234" ;
-        adms:schemaAgency "IBAN"
-       ].
- 
+
+ex:bartbankaccount adms:identifier [
+
+skos:notation "BE94123412341234" ;
+
+adms:schemaAgency "IBAN"
+
+].
+
+
 However, there is a third option: using typed literals.
 A typed literal is a value according to design.
  
@@ -104,12 +114,16 @@ Then we still need to include the discussion on dereferenceable identifiers in t
 example:
  
    ex:bartbankaccount adms:identifier [
-        skos:notation "BE94123412341234" ;
-        adms:schemaAgency "IBAN"
-        dct:creator "Belfius"
-       ].
+
+skos:notation "BE94123412341234" ;
+
+adms:schemaAgency "IBAN"
+
+dct:creator "Belfius"
+
+].
  
-could be represented in one URI
+could be represented in one URI 
     https://data.belfius.be/id/account/BE94123412341234
  
 In that case, the maintainer of the identifier (and its core information) is included in the URL structure of the URI.  
@@ -121,24 +135,40 @@ Therefore as one does not is serving only one user context, all 3 cases might be
 In RDF turtle notation:
  
    <https://data.belfius.be/id/account/BE94123412341234>
-         dct:identifier "BE94123412341234"^^iso:IBAN ;
-         adms:identifier [
-                skos:notation "BE94123412341234" ;
-                adms:schemaAgency "IBAN"
-               dct:creator "Belfius"
-              ].
+
+dct:identifier "BE94123412341234"^^iso:IBAN ;
+
+adms:identifier [
+
+skos:notation "BE94123412341234" ;
+
+adms:schemaAgency "IBAN"
+
+dct:creator "Belfius"
+
+].
+ 
  
 in JSON-LD notation
  
 {
-   "@context" : "...",  
-    "@id" : "https://data.belfius.be/id/account/BE94123412341234",
-    "identifier" : "BE94123412341234",
-     "adms_identifier" : {
-           "notation" : "BE94123412341234",
-           "schemaAgency" : "IBAN",
-           "creator" : "Belfius"
-            }
+
+"@context" : "...",  
+
+"@id" : "https://data.belfius.be/id/account/BE94123412341234",
+
+"identifier" : "BE94123412341234",
+
+"adms_identifier" : {
+
+"notation" : "BE94123412341234",
+ 
+ "schemaAgency" : "IBAN",
+
+"creator" : "Belfius"
+
+}
+
 }
  
 where the context will map the terms to the corresponding URIs.
