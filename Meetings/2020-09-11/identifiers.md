@@ -60,16 +60,16 @@ Hereby some feedback and pointers regarding the discussion at the ICEG RC.
 The identifier challenges — as discussed in https://github.com/belgif/review/blob/master/Meetings/2020-09-11/identifiers.md — require fair agreements.
  
 As pointed out, there are two main approaches for identifiers:
-    a) without provenance knowledge
-    b) with provenance knowledge
+*    a) without provenance knowledge
+*    b) with provenance knowledge
 Case a) is covered by the dct:identifier URI mapping, while b) is adms:identifier mapping.
  
 In data exchanges, the need for one or both can exist. The implementation choice depends on the use-cases. It is both valid and correct approaches. 
 So both need support. [*see below]
  
 However there are two other discussion items that also have impact:
-   c) design of identifiers
-   d) dereferenceable identifiers
+*   c) design of identifiers
+*   d) dereferenceable identifiers
  
 The design of identifiers corresponds to the table "Simple identifiers" (I would suggest renaming the table to designed/scoped identifiers, they are not that simple).  The table shows that for many entities an special designed identifier is created, tightening the existence of the entity to have an identifier according to that design. E.g. A bank account only exists if it has a IBAN number, but given an IBAN number we have a bank account. 
 This design can be expressed e.g. as a custom XSD description. 
@@ -79,6 +79,7 @@ Now if one designs a payload then the implicit constraint that the identifier of
 Example: 
  g
 without provenance knowledge:
+
  ex:bartbankaccount dct:identifier "BE94123412341234" 
  
 with provenance knowledge
