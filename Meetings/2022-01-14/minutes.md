@@ -36,7 +36,7 @@ Target for starting the exercise would be April.
 
 ## New in 2022:   presentation SDG case on address change / move
 Talks are ongoing between Flanders, BOSA and the SDG coordination team to prepare a project charter for a standardization exercise that would focus on a well chosen SDG-procedure (e.g. address change). The approach followed by OSLO Steps would be included for elaborating the detailed process.
-The exercise would then also focus on aspects that would be generic and reusable for other complex processes. A project charter would be expected in the coming 2 weeks. 
+The exercise would then also focus on aspects that would be generic and reusable for other complex processes. A project charter is expected to be ready in the coming 2 weeks. 
 
 ## Finalization publication "Public services and public organisations" 
 By end of January the following deliverables would be published on www.belgif.be : SHACL, JSON-LD and RDFS. 
