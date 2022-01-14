@@ -50,7 +50,7 @@ PWC will also prepare a notification mail for the ICEG committee with respect to
 Workshop on ICEG Public Services and Public Organisations.
 Timing: March 29th, 2022 (9.30 – 11.00).
 
-Raf wil set up a preparation meeting. Rink is interested in participating.
+Raf wil set up a preparation meeting. Rink is willing to help in a break-out session.
 
 ## Next meeting of the ICEG review committee
 Still to be determined. To be aligned with the next ICEG committee meeting (e.g. 3 weeks before that meeting)
