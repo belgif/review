@@ -42,7 +42,7 @@ The exercise would then also focus on aspects that would be generic and reusable
 By end of January the following deliverables would be published on www.belgif.be : SHACL, JSON-LD and RDFS. 
 
 PWC will put all material on github; Bart will integrate this material on http://vocab.belgif.be .
-In a later phase Bart will try to align with a mor ehuman friendly publication on belgif (source of inspiration: https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-bedrijventerrein.html)
+In a later phase Bart will try to align with a more human friendly publication on belgif (source of inspiration: https://data.vlaanderen.be/standaarden/erkende-standaard/applicatieprofiel-bedrijventerrein.html)
 
 PWC will also prepare a notification mail for the ICEG committee with respect to this new standard.
 
