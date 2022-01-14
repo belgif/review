@@ -8,6 +8,13 @@
 5. Training 2022
 
 # Minutes
+
+## Attendees
+- Flanders: Raf Buyle, Eveline Vlassenroot, Veerle Beyaert 
+- FPS BOSA DG DT: Bart Hanssens, Marc Bruyland
+- NGI: Rink Kruk
+- PWC: Christophe Bahim, Florian Barthelemi
+
 ## Status collaboration agreements
 There are 2 collaboration agreements that were discussed:
 -  the collaboration agreement around the data standardization exercise "Building"
