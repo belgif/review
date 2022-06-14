@@ -1,16 +1,18 @@
-# International data standards
-- https://www.w3.org/standards/ 
+# International data standards (consortia)
+- https://www.w3.org/standards/
+- https://www.w3.org/groups/wg/
+- https://spec.whatwg.org/
+- https://www.oasis-open.org/standards/
 - https://schema.org/
 - https://www.dublincore.org/specifications/dublin-core/dcmi-terms/
-- https://www.wikipedia.org/
-- https://www.wikidata.org/wiki/Wikidata:Main_Page
-- https://lov.linkeddata.es/ (search engine)
+- https://lov.linkeddata.es/ (search engine linked vocabulary)
 
 # European data standards
 - https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/e-government-core-vocabularies
 (Core vocabularies: Person, Public Organisation, Location, ...)
 
 # Belgian data standards (ICEG)
+- https://www.belgif.be/page/specifications.en.html
 - https://github.com/belgif/thematic
 (URI, Public Organisation, Public Service, ..)
 
@@ -18,7 +20,7 @@
 - https://github.com/belgif/fedvoc
 (fedvoc Excel sheet from the G-Cloud functional workgroup)
 - https://www.belgif.be/specification/rest/api-guide/ (REST Styleguide)
-- https://www.ict-reuse.be/nl (Reuse of SW components)
+
 
 # Regional data standards
 - https://data.vlaanderen.be/
