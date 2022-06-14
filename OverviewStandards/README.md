@@ -17,6 +17,8 @@
 # Federal data standards
 - https://github.com/belgif/fedvoc
 (fedvoc Excel sheet from the G-Cloud functional workgroup)
+- https://www.belgif.be/specification/rest/api-guide/ (REST Styleguide)
+- https://www.ict-reuse.be/nl (Reuse of SW components)
 
 # Regional data standards
 - https://data.vlaanderen.be/
