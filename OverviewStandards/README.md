@@ -25,6 +25,7 @@
 # Regional data standards
 - https://data.vlaanderen.be/
 (OSLO: 123 recognised standards)
+- https://www.projectcest.be/wiki/Standaarden (Meemoo)
 
 # How to choose a data standard ?
 To be discussed in the ICEG review committee.
