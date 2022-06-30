@@ -6,6 +6,7 @@
 - https://schema.org/
 - https://www.dublincore.org/specifications/dublin-core/dcmi-terms/
 - https://lov.linkeddata.es/ (search engine linked vocabulary)
+- https://termennetwerk.netwerkdigitaalerfgoed.nl/ (api via https://github.com/netwerk-digitaal-erfgoed/network-of-terms including a graphql package)
 
 # European data standards
 - https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/solution/e-government-core-vocabularies
