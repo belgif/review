@@ -44,7 +44,7 @@ The real question is what standard to use and where to find help for implementin
 The ICEG review committee can be approached for this (e.g. via github o via one of the members of the review committee).
 
 # Building exercise - status - how to cope with diverging opinions ?
-Worst case is that there cannot be found a consensus: there simply is no standard then.
+Worst case is that a consensus cannot be found : there simply is no standard then.
 
 If there are several opinions, pros and cons about how the different proposals match with the defined use cases can be weighed and be submitted to a decision body (e.g. in this case the BUNI committee) which hopefully can arrive at a consensus then.
 
