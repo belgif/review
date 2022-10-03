@@ -7,7 +7,13 @@
 - Walloon Region: Catherine Wagneur; 
 
 Excused:
--
+- BOSA: Liesbet D'hondt ; Bart Hanssens; Diederik Boomputte
+- Brussels Region: HOF Alexander ; HOOGEWYS, Tristan; 
+- Fédération Wallonie-Bruxelles: Philippe RIBUE ; 
+- Flanders:  Buyle Raf ; Andreas Nikolakopoulos ; Vlassenroot Eveline ; Van der Haegen Liesbeth
+- German speaking community: AUSSEMS, Thomas ;  
+- Walloon Region: Catherine Wagneur; 
+
 
 # Usage of ICEG budget 2022
 
