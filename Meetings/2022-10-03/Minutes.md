@@ -16,7 +16,7 @@ Excused:
 - Procedures Moving: here also, the exercise can start
 - Consumption of budget in 2023 - Issue or not ? the budget contributors will be contacted so that issues with invoices in 2023 will be avoided
 
-# Status exercise with FPS Justice (UTU)
+# Status Legal thesauri (UTU)
 There are 2 thesauri which explain juridical terms: 
 - UTU developed by retired judges
 - Court of Cassation
