@@ -4,9 +4,10 @@
 2. Kickoff "Hydrants" (Pwc + Rink Kruk - 20')
 3. Update on "Procedures Moving" (David De Block - 15')
 4. Update on "Public Transport" (Digitaal Vlaanderen + David Schoenmaekers - 15')
-5. Project charter "Subsidies" (Tamgnoue Guimfacq Valery - 20') 
-6. Publication of the datamodel "BEST" via github (Benoît Fricheteau - 20')
+5. Project charter "Subsidies" (Tamgnoue Guimfacq Valery - 15') 
+6. Publication of the datamodel "BEST" via github (Benoît Fricheteau - 15')
 7. Belgian Data Spaces Hub (BSDH) (15')
+8. Update on Legal thesauri (UTU) (10')
 
 
 ## The need for a more concerted Belgian Data Space approach
