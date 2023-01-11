@@ -7,7 +7,8 @@
 5. Project charter "Subsidies" (Tamgnoue Guimfacq Valery - 15') 
 6. Publication of the datamodel "BEST" via github (Benoît Fricheteau - 15')
 7. Belgian Data Spaces Hub (BSDH) (15')
-8. Update on Legal thesauri (UTU) (10')
+8. Update on Legal thesauri (UTU) (5')
+9. OSLO Leercredentials (5')
 
 
 ## The need for a more concerted Belgian Data Space approach
@@ -20,3 +21,7 @@ The BDSH will support local Data Space stakeholders in the development of EU Dat
 2.	Belgium to Europe: Represent Belgian stakeholders in different European Data Spaces related associations
 3.	Belgian European participation: Ensure that Belgian organisations can participating in the EU Data Spaces
 4.	Belgian uptake: Stimulate local data ecosystems to initiate local Data Space projects
+### OSLO Leercredentials
+[OSLO Leercredentials](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-leercredential.html?_cldee=aFUO6jUdFYY08LyWBatrEioC3RWpgO70BawJ8e2G0Upnmue0_oXlyVYYD4fXCMD7&recipientid=contact-cea8ee18972deb11a813000d3ad7ac46-078d477fca004b5aacfcf30be8620acd&esid=1807d2ce-c990-ed11-aad1-0022489fdf62)
+
+François Dumortier: "Ik stel voor bij ICEG te polsen of er interesse is om dit uit te breiden naar het Federale, het Waalse gewest en de Fédération Wallonie-Bruxelles toe. Ook in net kader van de Single Digital Gateway zullen we dergelijk standaard nodig hebben om te voldoen aan het Once Only beginsel."
