@@ -55,7 +55,13 @@ Scope of the pre-analysis for which Flanders intended to send invoices end of 20
 - who will contact the stakeholders for reviewing the proposed standard ? 
 
 ## Project charter "Subsidies" (Tamgnoue Guimfacq Valery - 15') 
+Mail 2022-12-12 from Valéry:
+"Je travaille pour le Service Public Régional Bruxellois – SPRB-GOB autour de la valorisation des données dans la direction Data intelligence. Je vous contacte parce que nous initions des travaux sur l’uniformisation de la gestion des subsides. 
+Au niveau du model de données, nous nous sommes posés la question de savoir si un travail similaire n’était pas en cours ou en gestation à l’ICEG. 
+Nous savons qu’il existe déjà un model en Flandre,  [Besluit Subsidie](https://data.vlaanderen.be/doc/applicatieprofiel/besluit-subsidie), mais nous n’avons aucune idée de ce qui se fait au niveau fédéral sur cette thématique."
+
 **Questions:**
+- where is the project charter ?
 
 ## Publication of the datamodel "BEST" via github (Benoît Fricheteau - 15')
 **Questions:**
