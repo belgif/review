@@ -49,6 +49,10 @@ Scope of the pre-analysis for which Flanders intended to send invoices end of 20
 
 ## Update on "Public Transport" (Digitaal Vlaanderen + David Schoenmaekers - 15')
 **Questions:**
+- where are we with the finalization of the alignment from Dutch OSLO standard to English OSLO standard ?
+- who will refer to the proposed standard from the ICEG pages ?
+- when will the public review take place ?
+- who will contact the stakeholders for reviewing the proposed standard ? 
 
 ## Project charter "Subsidies" (Tamgnoue Guimfacq Valery - 15') 
 **Questions:**
