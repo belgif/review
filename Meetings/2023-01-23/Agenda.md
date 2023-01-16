@@ -36,8 +36,16 @@ Pwc proposes the following calendar:
 - timing for sending the invitations ?
 - who will send out the invitations ?
 
-## Update on "Procedures Moving" (David De Block - 15')
+## Update on "Procedures Moving" (David De Block/Ben De Meester - 15')
+Scope of the pre-analysis for which Flanders intended to send invoices end of 2022:
+![image](https://user-images.githubusercontent.com/20465494/212697824-5580ab4f-95a4-454c-871b-33fea2b2ee8b.png)
+
+
 **Questions:**
+- where are the deliverables ?
+- who will take care of the publication of these deliverables ?
+- are there any new steps foreseen (which should again obtain the approval of the ICEG committee) ?
+
 
 ## Update on "Public Transport" (Digitaal Vlaanderen + David Schoenmaekers - 15')
 **Questions:**
