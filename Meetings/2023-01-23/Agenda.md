@@ -56,15 +56,29 @@ Scope of the pre-analysis for which Flanders intended to send invoices end of 20
 
 ## Project charter "Subsidies" (Tamgnoue Guimfacq Valery - 15') 
 Mail 2022-12-12 from Valéry:
-"Je travaille pour le Service Public Régional Bruxellois – SPRB-GOB autour de la valorisation des données dans la direction Data intelligence. Je vous contacte parce que nous initions des travaux sur l’uniformisation de la gestion des subsides. 
+"
+Je travaille pour le Service Public Régional Bruxellois – SPRB-GOB autour de la valorisation des données dans la direction Data intelligence. Je vous contacte parce que nous initions des travaux sur l’uniformisation de la gestion des subsides. 
 Au niveau du model de données, nous nous sommes posés la question de savoir si un travail similaire n’était pas en cours ou en gestation à l’ICEG. 
-Nous savons qu’il existe déjà un model en Flandre,  [Besluit Subsidie](https://data.vlaanderen.be/doc/applicatieprofiel/besluit-subsidie), mais nous n’avons aucune idée de ce qui se fait au niveau fédéral sur cette thématique."
+Nous savons qu’il existe déjà un model en Flandre,  [Besluit Subsidie](https://data.vlaanderen.be/doc/applicatieprofiel/besluit-subsidie), mais nous n’avons aucune idée de ce qui se fait au niveau fédéral sur cette thématique.
+"
 
 **Questions:**
 - where is the project charter ?
 
 ## Publication of the datamodel "BEST" via github (Benoît Fricheteau - 15')
+mail Benoit 2022-10-24:
+"
+A. Gouvernance du modèle BeSt: Le modèle doit être documenté in extenso sur Github, dans le répertoire belgif (UML complet détaillant toutes les classes, les coded values, catalogue d’objets définissant les classes et attributs, ainsi que xsd)
+C. Calendrier: BOSA mettra tout en œuvre pour que tout le projet BeSt soit documenté sur github endéans les 6 mois, ou en tout cas, la partie relative au modèle de données
+"
 **Questions:**
+- where is the project charter ?
+- can BOSA make a proposal for the deliverables without starting a classic ICEG exercise ?
+- who can publish the deliverables on the ICEG pages ?
+- when is the public review period foreseen ?
+
+Next step: 
+approval of the model by the Address Committee
 
 ## The need for a more concerted Belgian Data Space approach (Raf Buyle - 15')
 Europe has set its sights on the Data Economy, with the ambitious aim to create a Single Market for Data by 2030. Data must flow all around Europe to enable future innovations (e.g. based on AI) and improve the quality of European lives. But this doesn’t come easy, and there are a lot of barriers which need to be removed before we can get there. This is where Data Spaces come in. A Data Space can be understood as an ecosystem of organisations that are able to share data among each other more easily because of pre-made agreements that pertain to the technical, legal and business aspects of data sharing. 
