@@ -12,8 +12,14 @@
 
 
 ## Quality review "Building" (Christophe Bahim/Florian Barthelemy Pwc - 15')
-**Questions:**
+[Link](https://belgif.github.io/thematic/models/building/index_en.html#jsonld) to the deliverables
 
+**Questions:**
+- is the review committee satisfied with the quality of the proposed standard ?
+
+Next steps:
+- Feb 2nd: content validation by CC INSPIRE (presentation of the standard by Pwc + Marc Bruyland)
+- Feb 8th: content validation by the Address Committee (presentation of the standard by Pwc + Marc Bruyland)
 
 ## Kickoff "Hydrants" (Pwc + Rink Kruk - 20')
 Pwc proposes the following calendar:
