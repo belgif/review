@@ -11,11 +11,24 @@
 9. OSLO Leercredentials (Eveline Vlassenroot 5')
 
 
-## Quality review "Building" (Pwc - 15')
+## Quality review "Building" (Christophe Bahim/Florian Barthelemy Pwc - 15')
 **Questions:**
 
+
 ## Kickoff "Hydrants" (Pwc + Rink Kruk - 20')
+Pwc proposes the following calendar:
+-	Business workshop – 22nd of February, 9am to 12pm
+-	1st Thematic Workshop – 22nd of March, 9am to 12pm
+-	2nd Thematic Workshop – 19th of April, 9am to 12pm
+-	3rd Thematic Workshop – 24th of May, 9am to 12pm
+-	Public Review Period – From June until early September (~3 months)
+-	4th Thematic Workshop – 13th of September, 9am to 12pm
+
 **Questions:**
+- participant list (Rink Kruk)
+- number of workshops - ok or less workshops needed ?
+- timing for sending the invitations ?
+- who will send out the invitations ?
 
 ## Update on "Procedures Moving" (David De Block - 15')
 **Questions:**
