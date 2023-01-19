@@ -98,6 +98,8 @@ The BDSH will support local Data Space stakeholders in the development of EU Dat
 - how is it related to ICEG data standardization efforts ?
 
 ## Update on Legal thesauri (UTU) (Diederik Boomputte/Bart Hanssens - 5')
+The following link leads to a publication of UTU on github: https://github.com/belgif/thematic/tree/master/legal-thesauri/utu
+
 The UTU exercise does not follow a classic ICEG trajectory.
 - mapping UTU <=> court of Cassation <=> eurovoc
 - deliverable: SKOS mapping
