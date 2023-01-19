@@ -129,6 +129,6 @@ Flanders has foreseen to start an OSLO exercise around this subject.
 
 **Questions:** 
 - move it to ICEG level ? 
-- interest from french/german speaking community ?
-- interest from french/german speaking community ?
+- interest from french speaking community ?
+- interest from german speaking community ?
 - link with Single Digital Gateway ? (EMREX/ELMO being examined right now by the EC)
