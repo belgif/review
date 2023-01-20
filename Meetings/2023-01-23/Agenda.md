@@ -68,14 +68,21 @@ Nous savons qu’il existe déjà un model en Flandre,  [Besluit Subsidie](https
 
 ## Publication of the datamodel "BEST" via github (Benoît Fricheteau - 15')
 mail Benoit 2022-10-24:
+
 "
 A. Gouvernance du modèle BeSt: Le modèle doit être documenté in extenso sur Github, dans le répertoire belgif (UML complet détaillant toutes les classes, les coded values, catalogue d’objets définissant les classes et attributs, ainsi que xsd)
 C. Calendrier: BOSA mettra tout en œuvre pour que tout le projet BeSt soit documenté sur github endéans les 6 mois, ou en tout cas, la partie relative au modèle de données
 "
+
+xsd - see https://vocab.belgif.be/ns?lang=en
+
+OSLO standard: https://data.vlaanderen.be/doc/applicatieprofiel/adresregister/
+
+
 **Questions:**
 - where is the project charter ?
-- can BOSA make a proposal for the deliverables without starting a classic ICEG exercise ?
-- who can publish the deliverables on the ICEG pages ?
+- can we limit the exercise to putting a page on github with a picture of the datamodel and a reference to the (latest version) of the xsd ? without starting a classic ICEG exercise (which requires a budget) ?
+- who can provide and publish the deliverables on the ICEG pages ?
 - when is the public review period foreseen ?
 
 Next step: 
@@ -119,6 +126,7 @@ Opendata legislation
 
 **Questions:**
 - status
+- alignment court of Cassation - Eurovoc ?
 - alignment UTU - court of Cassation ?
 - who will do the publication work on github ?
 - timing of the review period ?
