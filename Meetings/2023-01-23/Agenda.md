@@ -20,6 +20,7 @@
 Next steps:
 - Feb 2nd: content validation by CC INSPIRE (presentation of the standard by Pwc + Marc Bruyland)
 - Feb 8th: content validation by the Address Committee (presentation of the standard by Pwc + Marc Bruyland)
+- the link to the deliverables will be sent to both committees (Marc Bruyland)
 
 ## Kickoff "Hydrants" (Pwc + Rink Kruk - 20')
 Pwc proposes the following calendar:
