@@ -15,7 +15,7 @@
 [Link](https://belgif.github.io/thematic/models/building/index_en.html#jsonld) to the deliverables
 
 **Questions:**
-- is the review committee satisfied with the quality of the proposed standard ?
+- is the review committee satisfied with the quality of the proposed standard ? **The review committee confirmed that the standard was produced in full respect of the process defined by the review committee.** 
 
 Next steps:
 - Feb 2nd: content validation by CC INSPIRE (presentation of the standard by Pwc + Marc Bruyland)
@@ -32,10 +32,10 @@ Pwc proposes the following calendar:
 -	4th Thematic Workshop – 13th of September, 9am to 12pm
 
 **Questions:**
-- participant list (Rink Kruk)
-- number of workshops - ok or less workshops needed ?
-- timing for sending the invitations ?
-- who will send out the invitations ?
+- participant list (Rink Kruk) - **Rink has compiled a list of 97 persons that can be invited to the workshops**
+- number of workshops - ok or less workshops needed ? - **The number of workshops will be limited to what is necessary. After the business workshop it will become clearer whether we need 3 or 4 additional workshops. A business workshop and 4 thematic workshops will be proposed in the invitation where one thematic workshop will be marked with "to be confirmed".**
+- timing for sending the invitations ? **The invitations will be sent this week. The first workshop, the business workshop, will be organized in the week of March 7th.** 
+- who will send out the invitations ? **Rink will first announce to the invited persons that they can expect an invitation from Pwc. Pwc will then send the invitation based on Rink's participant list.**
 
 ## Update on "Procedures Moving" (David De Block/Ben De Meester - 15')
 Scope of the pre-analysis for which Flanders intended to send invoices end of 2022:
@@ -43,14 +43,15 @@ Scope of the pre-analysis for which Flanders intended to send invoices end of 20
 
 
 **Questions:**
-- where are the deliverables ?
+- where are the deliverables ? **The pre-analysis still has to start. The deliverables are not there yet.**
 - who will take care of the publication of these deliverables ?
 - are there any new steps foreseen (which should again obtain the approval of the ICEG committee) ?
 
+**Planning info: start of the pre-analysis this week; the intention is to finalize the exercise by March 10th. Pieter Vanhouteghem is to be contacted as well.**
 
 ## Update on "Public Transport" (Digitaal Vlaanderen + David Schoenmaekers - 15')
 **Questions:**
-- where are we with the finalization of the alignment from Dutch OSLO standard to English OSLO standard ?
+- where are we with the finalization of the alignment from Dutch OSLO standard to English OSLO standard ? **A detailed status will be sent by Digitaal Vlaanderen beginning of February. As soon as the proposed standard is ready, the sponsor David Schoenmakers - excused for this meeting - will be contacted for  next steps.**
 - who will refer to the proposed standard from the ICEG pages ?
 - when will the public review take place ?
 - who will contact the stakeholders for reviewing the proposed standard ? 
@@ -64,7 +65,7 @@ Nous savons qu’il existe déjà un model en Flandre,  [Besluit Subsidie](https
 "
 
 **Questions:**
-- where is the project charter ?
+- where is the project charter ? **Valery mentioned that the Brussels Region still needs to align internally. A project charter is not available yet. He thinks there will be a need for translating the OSLO standard, but he does not expect many adjustments on the content.**
 
 ## Publication of the datamodel "BEST" via github (Benoît Fricheteau - 15')
 mail Benoit 2022-10-24:
@@ -80,13 +81,13 @@ OSLO standard: https://data.vlaanderen.be/doc/applicatieprofiel/adresregister/
 
 
 **Questions:**
-- where is the project charter ?
-- can we limit the exercise to putting a page on github with a picture of the datamodel and a reference to the (latest version) of the xsd ? without starting a classic ICEG exercise (which requires a budget) ?
-- who can provide and publish the deliverables on the ICEG pages ?
-- when is the public review period foreseen ?
+- where is the project charter ? **There is no project charter yet.**
+- can we limit the exercise to putting a page on github with a picture of the datamodel and a reference to the (latest version) of the xsd ? without starting a classic ICEG exercise (which requires a budget) ? **In a first step, BOSA will refer to the latest version of the xsd on vocab.belgif. BOSA will include a page on github that will refer to this xsd and that will show a picture of the datamodel.**
+- who can provide and publish the deliverables on the ICEG pages ? **BOSA will make an attempt.**
+- when is the public review period foreseen ? **It is not the intention to change anything to the model that was agreed by the Address Committee. We are dealing here with a publication effort only and with a governance issue: the issues mechanism on github will be used to manage the lifecycle of the standard.** 
 
 Next step: 
-approval of the model by the Address Committee
+inform the Address Committee about the publication of the existing model on github
 
 ## The need for a more concerted Belgian Data Space approach (Raf Buyle - 15')
 Europe has set its sights on the Data Economy, with the ambitious aim to create a Single Market for Data by 2030. Data must flow all around Europe to enable future innovations (e.g. based on AI) and improve the quality of European lives. But this doesn’t come easy, and there are a lot of barriers which need to be removed before we can get there. This is where Data Spaces come in. A Data Space can be understood as an ecosystem of organisations that are able to share data among each other more easily because of pre-made agreements that pertain to the technical, legal and business aspects of data sharing. 
@@ -100,10 +101,8 @@ The BDSH will support local Data Space stakeholders in the development of EU Dat
 4.	Belgian uptake: Stimulate local data ecosystems to initiate local Data Space projects
 
 **Questions:**
-- who is behind BDSH ? 
-- is it an organization ? 
-- is it a project ?
-- how is it related to ICEG data standardization efforts ?
+- who is behind BDSH ? is it an organization ? is it a project ? **Jelle Hoedemaekers (agoria) explains that it is a project.**
+- how is it related to ICEG data standardization efforts ?  **At European level they want to know where data standards in the Member States are coming from. ICEG is an initiative for data standardization at Belgian interfederal level. Raf Buyle wll serve as connection between ICEG and BDSH.** 
 
 ## Update on Legal thesauri (UTU) (Diederik Boomputte/Bart Hanssens - 5')
 The following link leads to a publication of UTU on github: https://github.com/belgif/thematic/tree/master/legal-thesauri/utu
@@ -125,21 +124,21 @@ Opendata legislation
 - all (anonymised) court rulings have to be published as open data
 
 **Questions:**
-- status
-- alignment court of Cassation - Eurovoc ?
-- alignment UTU - court of Cassation ?
+- status - **UTU has been published on github.**
+- alignment court of Cassation - Eurovoc ? **This alignment is still to be done.**
+- alignment UTU - court of Cassation ? **This alignment is still to be done.**
 - who will do the publication work on github ?
 - timing of the review period ?
 
 ## OSLO Leercredentials (Eveline Vlassenroot 5')
 [OSLO Leercredentials](https://data.vlaanderen.be/standaarden/standaard-in-ontwikkeling/vocabularium-en-applicatieprofiel-leercredential.html?_cldee=aFUO6jUdFYY08LyWBatrEioC3RWpgO70BawJ8e2G0Upnmue0_oXlyVYYD4fXCMD7&recipientid=contact-cea8ee18972deb11a813000d3ad7ac46-078d477fca004b5aacfcf30be8620acd&esid=1807d2ce-c990-ed11-aad1-0022489fdf62)
 
-François Dumortier: "Ik stel voor bij ICEG te polsen of er interesse is om dit uit te breiden naar het Federale, het Waalse gewest en de Fédération Wallonie-Bruxelles toe. Ook in net kader van de Single Digital Gateway zullen we dergelijk standaard nodig hebben om te voldoen aan het Once Only beginsel."
+François Du Mortier: "Ik stel voor bij ICEG te polsen of er interesse is om dit uit te breiden naar het Federale, het Waalse gewest en de Fédération Wallonie-Bruxelles toe. Ook in net kader van de Single Digital Gateway zullen we dergelijk standaard nodig hebben om te voldoen aan het Once Only beginsel."
 
 Flanders has foreseen to start an OSLO exercise around this subject.
 
 **Questions:** 
-- move it to ICEG level ? 
-- interest from french speaking community ?
-- interest from german speaking community ?
-- link with Single Digital Gateway ? (EMREX/ELMO being examined right now by the EC)
+- move it to ICEG level ? **Digitaal Vlaanderen prefers to continue with its OSLO exercise which is open for everyone (see [subscription link](https://overheid.vlaanderen.be/informatie-vlaanderen/kennishub/werkgroepen-%E2%80%93-oslo-leercredential?_cldee=aFUO6jUdFYY08LyWBatrEioC3RWpgO70BawJ8e2G0Upnmue0_oXlyVYYD4fXCMD7&recipientid=contact-cea8ee18972deb11a813000d3ad7ac46-078d477fca004b5aacfcf30be8620acd&esid=1807d2ce-c990-ed11-aad1-0022489fdf62))**
+- interest from french speaking community ? **No representatives were present in the meeting.**
+- interest from german speaking community ? **No representatives were present in the meeting.**
+- link with Single Digital Gateway ? **EMREX/ELMO is being examined right now by the EC.**
