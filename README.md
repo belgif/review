@@ -20,3 +20,13 @@ The working group on data standards gathers on a regular basis.
 Organizer of the review meeting (round-robin): BOSA => Flanders => CFWB
 
 Link to the thematic workgroups and standards: https://github.com/belgif/thematic
+
+
+Members of ICEG review committee:
+- Vlaanderen: raf.buyle@vlaanderen.be; eveline.vlassenroot@vlaanderen.be; liesbeth.vanderhaegen@vlaanderen.be; andreas.nikolakopoulos@v-ict-or.be
+- BOSA : liesbet.dhondt@bosa.fgov.be; bart.hanssens@bosa.fgov.be; marc.bruyland@bosa.fgov.be; 
+- Brussels Gewest : ahof@gob.brussels; bfricheteau@paradigm.brussels; thoogewys@paradigm.be; eauquiere@paradigm.brussels; fdumortier@paradigm.brussels
+- Fédération Wallonie-Bruxelles: alexandre.delalieu@cfwb.be
+- Région wallonne: 
+- Deutschsprachige Gemeinschaft: Thomas.Aussems@dgov.be
+- NGI: rink.kruk@ngi.be
