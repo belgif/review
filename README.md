@@ -27,6 +27,6 @@ Members of ICEG review committee:
 - BOSA : liesbet.dhondt@bosa.fgov.be; bart.hanssens@bosa.fgov.be; marc.bruyland@bosa.fgov.be; 
 - Brussels Gewest : ahof@gob.brussels; bfricheteau@paradigm.brussels; thoogewys@paradigm.be; eauquiere@paradigm.brussels; fdumortier@paradigm.brussels
 - Fédération Wallonie-Bruxelles: alexandre.delalieu@cfwb.be
-- Région wallonne: 
+- Région wallonne: dominique.buffet@spw.wallonie.be; xavier.demarets@spw.wallonie.be
 - Deutschsprachige Gemeinschaft: Thomas.Aussems@dgov.be
 - NGI: rink.kruk@ngi.be
