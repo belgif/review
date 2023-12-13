@@ -1,4 +1,4 @@
-ATTENDEES:
+# ATTENDEES:
 -	Marc Bruyland
 -	Raf Buyle
 -	Eric Auquière
@@ -14,7 +14,8 @@ ATTENDEES:
 -	Ivy Van De Kerckhove
 -	Benoît Fricheteau
 -	Liesbeth Van der Haegen
-AGENDA:
+
+# AGENDA:
 
 1.	Welcome & agenda (Raf Buyle)
 2.	BeST – documentation based on EA repo (Evelyn Barreto)
@@ -27,7 +28,7 @@ AGENDA:
 9.	ICEG Training 2024 – needs & content (Liesbeth Van der Haegen) – postponed to next review committee)
 10.	ICEG Management Committee 13/12 – preparations (ICEG Review Committee)
 
-NOTES:
+# NOTES:
 
 #	BeST – Evelyn Barreto (BOSA)
 -	CONTEXT:
