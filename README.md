@@ -28,5 +28,5 @@ Members of ICEG review committee:
 - Brussels Gewest : ahof@gob.brussels; bfricheteau@paradigm.brussels; thoogewys@paradigm.be; eauquiere@paradigm.brussels; fdumortier@paradigm.brussels
 - Fédération Wallonie-Bruxelles: alexandre.delalieu@cfwb.be
 - Région wallonne: dominique.buffet@spw.wallonie.be; xavier.demarets@spw.wallonie.be
-- Deutschsprachige Gemeinschaft: Thomas.Aussems@dgov.be
+- Deutschsprachige Gemeinschaft: dominique.buecken@dgov.be
 - NGI: rink.kruk@ngi.be
