@@ -63,7 +63,7 @@ The members of the ICEG review committee are requested to inform their managemen
 
 With respect to data standardization, the work involved is
 - aligning all stakeholders on the IMKL format
-- publication of the standard at interfederal level
+- publication of the standard at ICEG level
 - the maintenance of the standard.
 
 The process for defining ICEG data standards is described [here](https://github.com/belgif/review/tree/master/Process). Also a template for a project charter can be found here which is needed to start a new data standardization exercise at ICEG.
