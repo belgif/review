@@ -58,7 +58,7 @@ Present status:
 - Brussels and the federal level want to use IMKL
 - Wallonia have not taken a decision yet on IMKL
 
-There is a need for a collaboration agreement; this will be addressed at the ICEG Committee of April 4th.
+There is a need for a collaboration agreement which is targeted towards the end of 2024; this will be addressed at the ICEG Committee of April 4th. There is still some unclarity if the german speaking community needs to be involved.
 The members of the ICEG review committee are requested to inform their management who will participate at that ICEG meeting. Ivy will send some additional documentation and contact persons of the different stakeholders who were involved in the discussions so far.
 
 With respect to data standardization, the work involved is
