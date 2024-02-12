@@ -97,7 +97,7 @@ On Feb 9th, a meeting took place between Jack Hamande and David Wattecamps re th
 ## ACTIONS
 
 The following action points were noted:
-- [Marc] update the status of the Building exercise on github
+- [Marc] update the status of the Building exercise on github to "ICEG standard"
 - [Ivy] send doc + contacts to the members of the ICEG review committee to prepare their representatives at the ICEG meeting on April 3rd
 - [Marc] check next steps for BEST documentation
 - [Eveline] organise ICEG training preparation meeting
