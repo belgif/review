@@ -87,6 +87,11 @@ The process for defining ICEG data standards is described [here](https://github.
 ### Planning 2024
 As was discussed in earlier meetings, an overview of the year planning will be provided in the ICEG review committee.
 
+Possible topics to be discussed in upcoming meetings were mentioned. Examples are
+- Dataspaces
+-	UNGGIM-IGIF 
+-	Visibility on BeGeo, IMEC ...
+
 ### ICEG Training 2024 - need & content
 The review committee decides to organise an ICEG interoperability training this year. Eveline will organise a preparatory meeting.
 
