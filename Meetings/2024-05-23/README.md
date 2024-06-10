@@ -1,4 +1,4 @@
-# Meeting minutes - ICEG Review Committee - 2024-05-23     DRAFT
+# Meeting minutes - ICEG Review Committee - 2024-05-23
 
 Attendees: 
 - Vlaanderen: eveline.vlassenroot@vlaanderen.be; 
