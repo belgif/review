@@ -61,6 +61,11 @@ Raf will try to get an entry ticket for Rink, the SEMIC conference being fully b
 The next meeting will take place on Sep 12th: this will be a physical meeting in the Paradigm office (still to be confirmed due to the move foreseen beginning of Sep; Flanders will foresee a backup to be confirmed by Eveline). Worst case the meeting will be on-line.
 
 ## ACTIONS
+actions from previous meeting:
+- provide budget estimation (md+€) for the Person exercise (Liesbet + Mathieu)
+- provide budget estimation (md+€) for the Hydrant exercise extension (Rink)
+
+new actions:
 - update collaboration agreement + presentation for ICEG committee + presentation for SEMIC (Marc)
 - update one-pager document for Person (Liesbet + Mathieu)
 - present at ICEG committee of 26/6 (Rink + Eric tbc); Marc will inform the ICEG secretary for the invitations to the meeting
