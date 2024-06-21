@@ -41,7 +41,6 @@ Raf (Flanders) is not available to present the slides due to obligations at SEMI
 The slides will be presented by Rink (NGI) and Eric (Paradigm). Eric still needs to confirm (Marc from BOSA as backup).
 
 The one-pager on Person was discussed. The amended document will be presented at the ICEG committee of June 26th. The goal of this document is to request on behalf of the ICEG committee support for the exercise from the 2 main stakeholders, being the National Register and CBSS. An updated version will be put on github, feedback is expected before June 20th. Contacts for the document are Liesbet (BOSA) and Mathieu (Flanders).
-The document can be found at https://github.com/belgif/ICEGthema-person/blob/main/resources/doc/20240612-onepager.docx
 
 
 CIRB should be replaced by Paradigm in the slides for the ICEG committee.
