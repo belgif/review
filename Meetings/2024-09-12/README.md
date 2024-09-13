@@ -53,7 +53,7 @@ A letter on behalf of the ICEG committee to request support from the 2 main stak
 The collaboration agreement was blocked for a long time at BOSA; on 22/7 it was approved by BOSA's IF.
 The document was then signed on behalf of the president of BOSA.
 Flanders came with some (non fundamental) modifications to the text of the agreement; these changes were approved by the Legal department of BOSA.
-On 1/8 a message from SPW indicated some difficulties to have the budget approved by their IF. Xavier said he hopes to unblock the situation in the month of September. 
+On 1/8 a message from SPW indicated some difficulties to have the budget approved by their IF. Xavier said he hopes to unblock the situation in the month of September. Rink underlines the importance and uniqueness of the ICEG collaboration on data standardization and that now a number of projects are blocked on which several parties heavily count on. 
 BOSA is waiting for clarity given by SPW before continuing the signing round of the agreement.
 The status will also be discussed in the meeting of the ICEG committee on 25/9.
 
