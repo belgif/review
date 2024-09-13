@@ -1,7 +1,7 @@
 # Meeting minutes - ICEG Review Committee - 2024-09-12
 Attendees:
 
-- Vlaanderen: eveline.vlassenroot@vlaanderen.be; 
+- Vlaanderen: eveline.vlassenroot@vlaanderen.be; ziggy.vanlishout@vlaanderen.be
 - BOSA : liesbet.dhondt@bosa.fgov.be; marc.bruyland@bosa.fgov.be;
 - Brussels Gewest : eauquiere@paradigm.brussels; 
 - Fédération Wallonie-Bruxelles:
