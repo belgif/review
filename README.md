@@ -30,3 +30,5 @@ Members of ICEG review committee:
 - Région wallonne: dominique.buffet@spw.wallonie.be; xavier.demarets@spw.wallonie.be
 - Deutschsprachige Gemeinschaft: dominique.buecken@dgov.be
 - NGI: rink.kruk@ngi.be
+
+DistributionList: raf.buyle@vlaanderen.be;eveline.vlassenroot@vlaanderen.be;liesbeth.vanderhaegen@vlaanderen.be;andreas.nikolakopoulos@v-ict-or.be;liesbet.dhondt@bosa.fgov.be;bart.hanssens@bosa.fgov.be;marc.bruyland@bosa.fgov.be;ahof@gob.brussels;bfricheteau@paradigm.brussels;thoogewys@paradigm.be;eauquiere@paradigm.brussels;alexandre.delalieu@cfwb.be;dominique.buffet@spw.wallonie.be;xavier.demarets@spw.wallonie.be;dominique.buecken@dgov.be;rink.kruk@ngi.be
