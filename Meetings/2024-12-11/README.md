@@ -26,6 +26,8 @@ Guests:
 - Composition of the ICEG review committee 
 - Possible new topics for ICEG standardization
 
+Dominique welcomed the participants in Namur.
+
 ## Collaboration Agreement (Marc/Eveline)
 -	TRACKED CHANGES_OVEREENKOMST ICEG_horizontale niet geïnstitutionaliseerde samenwerking_V05
 -	TRACKED CHANGES_OVEREENKOMST ICEG_horizontale niet geïnstitutionaliseerde samenwerking_V06
