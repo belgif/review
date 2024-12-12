@@ -1,20 +1,20 @@
-# Meeting minutes - ICEG Review Committee - 2024-11-08
+# Meeting minutes - ICEG Review Committee - 2024-12-11 (Namur)
 Attendees:
--	Vlaanderen: eveline.vlassenroot@vlaanderen.be; raf.buyle@vlaanderen.be; liesbeth.vanderhaegen@vlaanderen.be; andreas.nikolakopoulos@v-ict-or.be
+-	Vlaanderen: eveline.vlassenroot@vlaanderen.be; ziggy.vanlishout@vlaanderen.be
 -	BOSA : liesbet.dhondt@bosa.fgov.be; marc.bruyland@bosa.fgov.be;
--	Brussels Gewest : eauquiere@paradigm.brussels;ahof@gob.brussels; thoogewys@paradigm.be; bfricheteau@paradigm.brussels
--	Fédération Wallonie-Bruxelles: alexandre.delalieu@cfwb.be
--	Région wallonne: dominique.buffet@spw.wallonie.be; xavier.demarets@spw.wallonie.be
--	Deutschsprachige Gemeinschaft: dominique.buecken@dgov.be
+-	Brussels Gewest : 
+-	Fédération Wallonie-Bruxelles: 
+-	Région wallonne: dominique.buffet@spw.wallonie.be; 
+-	Deutschsprachige Gemeinschaft: 
 -	NGI: rink.kruk@ngi.be
 
 Excused:
 - 	Vlaanderen: 
 -	BOSA : bart.hanssens@bosa.fgov.be; 
--	Brussels Gewest : 
--	Fédération Wallonie-Bruxelles: 
--	Région wallonne: 
--	Deutschsprachige Gemeinschaft: 
+-	Brussels Gewest : eauquiere@paradigm.brussels;ahof@gob.brussels; thoogewys@paradigm.be; bfricheteau@paradigm.brussels
+-	Fédération Wallonie-Bruxelles: alexandre.delalieu@cfwb.be
+-	Région wallonne: xavier.demarets@spw.wallonie.be
+-	Deutschsprachige Gemeinschaft: dominique.buecken@dgov.be
 
 Guests:
 - 	none 
@@ -27,20 +27,31 @@ Guests:
 - Possible new topics for ICEG standardization
 
 ## Collaboration Agreement (Marc/Eveline)
--	OVEREENKOMST ICEG_horizontale niet geïnstitutionaliseerde samenwerking_V05
 -	TRACKED CHANGES_OVEREENKOMST ICEG_horizontale niet geïnstitutionaliseerde samenwerking_V05
 -	TRACKED CHANGES_OVEREENKOMST ICEG_horizontale niet geïnstitutionaliseerde samenwerking_V06
+Eveline commented the changes that were introduced based on the discussion at the previous ICEG review committee regarding the feedback of the Walloon IF (V5 tracked changes).
+Marc commented on the changes that were subsequently introduced by BOSA in an attempt to increase the coherence of the document (V6).
+Based on the discussion at the review committee, a new version a new version V7 of the document will be drafted.
+In the mean time V6 is being looked at by Legal BOSA and Procurement BOSA.
+Once we get a stabilized version, a document will be sent to all members of the ICEG review committee for internal review in their organization.
 
-"ICEG Review Comité (werkgroep) Het ICEG Review Comité (hierna: “werkgroep”) ondersteunt op vlak van het te volgen proces en de te hanteren methodes voor het ontwikkelen van data standaarden. De werkgroep wordt ingericht door de opdrachtgever en komt eveneens vier keer per  jaar (elk kwartaal) samen. De werkgroep bestaat uit zowel de opdrachtgever als de opdrachtnemervertegenwoordigers van de ICEG-partijen. Jaarlijks kiezen de leden van de werkgroep een  voorzitter, die alle deelnemers uitnodigt, de agenda opstelt, het overleg voorbereidt en zorgt voor de verslaggeving. De werkgroep komt samen voorafgaand aan de zitting van de stuurgroep . Hier worden de verschillende dossiers voorbereid en inhoudelijk besproken, zodat de stuurgroep deze sneller kan afhandelen en goedkeuren."
+The members of the ICEG review committee agreed with the principle mentioned in the collaboration agreement regarding a yearly selection of a chair for the ICEG review committee; this chair would take care of practical things such as inviting the participants, defining the agenda, preparing the meetings and writing meeting minutes.
 
-Chair for 2025 ?
+A Chair for 2025 still needs to be chosen.
 
 ## Message for the ICEG committee of 18/12 (Marc)
+Marc showed a draft slide deck for the coming meeting of the ICEG strategic committee and requested feedback.
+Main topics will be the status of the collaboration agreement (presented by Marc) and pending exercises (presented by Eveline).
 
 ## Signature procedure for the collaboration agreement (Marc)
-[signature procedure](https://github.com/belgif/review/blob/master/Process/SigningCollabAgreement.md)
+Marc presented the procedure that will be followed for having the collaboration agreement signed by the 6 parties. 
+In this procedure representatives for each the 6 parties will need to intervene as described in the [signature procedure](https://github.com/belgif/review/blob/master/Process/SigningCollabAgreement.md).
+The ICEG review committee agreed with the proposal.
  
 ## Composition of the ICEG review committee (Marc)
-[composition](https://github.com/belgif/review/tree/master)
+The ICEG review committee [composition](https://github.com/belgif/review/tree/master) page was updated for Flanders.
+The absent representatives in the ICEG review committee are requested to check the names before the next meeting.
  
 ## Possible new topics for ICEG standardization (all)
+Eveline remarked that with the pending exercises the budget in the new collaboration agreement does not have much room for additional exercises.
+There was also a remark that the drafting of a new requirement should start at least 6 months before the end of the old agreement.
