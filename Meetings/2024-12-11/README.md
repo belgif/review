@@ -60,7 +60,7 @@ Eveline remarked that with the pending exercises the budget in the new collabora
 
 There was also a remark that the drafting of a new requirement should start in time (at least 6 months before the end of the old agreement).
 
-In a next renewal of the collaboration agreement, Ziggy suggested to examine if the collaboaration agreement could not be reformulated so that the duration would be without end date and the ICEG strategic committee would on a yearly basis allocate a working budget.
+In a next renewal of the collaboration agreement, Ziggy suggested to examine if the collaboaration agreement could not be reformulated so that the duration would be without end date and the ICEG strategic committee would on a yearly basis allocate a working budget via an addendum to the collaboration agreement.
 
 Eveline made a proposal for meetings in the whole year of 2025.
 
