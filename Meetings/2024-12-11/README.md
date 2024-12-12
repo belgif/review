@@ -29,6 +29,7 @@ Guests:
 ## Collaboration Agreement (Marc/Eveline)
 -	TRACKED CHANGES_OVEREENKOMST ICEG_horizontale niet geïnstitutionaliseerde samenwerking_V05
 -	TRACKED CHANGES_OVEREENKOMST ICEG_horizontale niet geïnstitutionaliseerde samenwerking_V06
+
 Eveline commented the changes that were introduced based on the discussion at the previous ICEG review committee regarding the feedback of the Walloon IF (V5 tracked changes).
 Marc commented on the changes that were subsequently introduced by BOSA in an attempt to increase the coherence of the document (V6).
 Based on the discussion at the review committee, a new version a new version V7 of the document will be drafted.
@@ -54,4 +55,9 @@ The absent representatives in the ICEG review committee are requested to check t
  
 ## Possible new topics for ICEG standardization (all)
 Eveline remarked that with the pending exercises the budget in the new collaboration agreement does not have much room for additional exercises.
-There was also a remark that the drafting of a new requirement should start at least 6 months before the end of the old agreement.
+
+There was also a remark that the drafting of a new requirement should start in time (at least 6 months before the end of the old agreement).
+
+In a next renewal of the collaboration agreement, Ziggy suggested to examine if the collaboaration agreement could not be reformulated so that the duration would be without end date and the ICEG strategic committee would on a yearly basis allocate a working budget.
+
+
