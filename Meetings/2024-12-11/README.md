@@ -60,4 +60,17 @@ There was also a remark that the drafting of a new requirement should start in t
 
 In a next renewal of the collaboration agreement, Ziggy suggested to examine if the collaboaration agreement could not be reformulated so that the duration would be without end date and the ICEG strategic committee would on a yearly basis allocate a working budget.
 
+Eveline made a proposal for meetings in the whole year of 2025.
 
+The Interoperable Europe Act was briefly discussed with the possible impact on belgif; as there is a related topic on the agenda of the ICEG stategic committee of Dec 18, we will wait for the outcome of this meeting. With respect to interoperability, the ICEG review committee is a candidate to assume certain responsibilities
+
+## ACTIONS
+- actions from previous meeting:
+  - Eveline: make a proposal for the whole year of 2025 - DONE
+  - Translate the final version in 3 languages.
+  - Develop a (high-level) roadmap for this update of the Belgif portal (frontend and backend).
+- new actions:
+  - define a chair for 2025 (see next meeting)
+  - review the (stabilized) collaboration agreement
+  - participate in the signing of the collaboration agreement
+  - check the composition of the ICEG review committee
