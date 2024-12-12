@@ -64,15 +64,19 @@ In a next renewal of the collaboration agreement, Ziggy suggested to examine if 
 
 Eveline made a proposal for meetings in the whole year of 2025.
 
-The Interoperable Europe Act was briefly discussed with the possible impact on belgif; as there is a related topic on the agenda of the ICEG stategic committee of Dec 18, we will wait for the outcome of this meeting. With respect to interoperability, the ICEG review committee is a candidate to assume certain responsibilities
+The Interoperable Europe Act was briefly discussed with the possible impact on belgif (creation of more accessible html pages); as there is a related topic on the agenda of the ICEG stategic committee of Dec 18, we will wait for the outcome of this meeting. With respect to interoperability, the ICEG review committee is a candidate to assume certain responsibilities.
+Ideas for a knowledge sharing training in 2025 were discussed (maybe in the context of the Interoperable Europe Act).
+
+
 
 ## ACTIONS
 - actions from previous meeting:
   - Eveline: make a proposal for the whole year of 2025 - DONE
   - Translate the final version in 3 languages.
-  - Develop a (high-level) roadmap for this update of the Belgif portal (frontend and backend).
+  - Develop a (high-level) roadmap for this update of the Belgif portal (frontend and backend)
 - new actions:
   - define a chair for 2025 (see next meeting)
   - review the (stabilized) collaboration agreement
   - participate in the signing of the collaboration agreement
   - check the composition of the ICEG review committee
+  - roadmap for updating the Belgif portal (Bert Vannuffelen and Bart Hanssens)
