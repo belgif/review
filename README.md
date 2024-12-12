@@ -23,7 +23,7 @@ Link to the thematic workgroups and standards: https://github.com/belgif/themati
 
 
 Members of ICEG review committee:
-- Vlaanderen: raf.buyle@vlaanderen.be; eveline.vlassenroot@vlaanderen.be; liesbeth.vanderhaegen@vlaanderen.be; andreas.nikolakopoulos@v-ict-or.be
+- Vlaanderen: eveline.vlassenroot@vlaanderen.be; ziggy.vanlishout@vlaanderen.be
 - BOSA : liesbet.dhondt@bosa.fgov.be; bart.hanssens@bosa.fgov.be; marc.bruyland@bosa.fgov.be; 
 - Brussels Gewest : ahof@gob.brussels; bfricheteau@paradigm.brussels; thoogewys@paradigm.be; eauquiere@paradigm.brussels
 - Fédération Wallonie-Bruxelles: alexandre.delalieu@cfwb.be
@@ -31,4 +31,4 @@ Members of ICEG review committee:
 - Deutschsprachige Gemeinschaft: dominique.buecken@dgov.be
 - NGI: rink.kruk@ngi.be
 
-DistributionList: raf.buyle@vlaanderen.be;eveline.vlassenroot@vlaanderen.be;liesbeth.vanderhaegen@vlaanderen.be;andreas.nikolakopoulos@v-ict-or.be;liesbet.dhondt@bosa.fgov.be;bart.hanssens@bosa.fgov.be;marc.bruyland@bosa.fgov.be;ahof@gob.brussels;bfricheteau@paradigm.brussels;thoogewys@paradigm.be;eauquiere@paradigm.brussels;alexandre.delalieu@cfwb.be;dominique.buffet@spw.wallonie.be;xavier.demarets@spw.wallonie.be;dominique.buecken@dgov.be;rink.kruk@ngi.be
+DistributionList: eveline.vlassenroot@vlaanderen.be;ziggy.vanlishout@vlaanderen.be;liesbet.dhondt@bosa.fgov.be;bart.hanssens@bosa.fgov.be;marc.bruyland@bosa.fgov.be;ahof@gob.brussels;bfricheteau@paradigm.brussels;thoogewys@paradigm.be;eauquiere@paradigm.brussels;alexandre.delalieu@cfwb.be;dominique.buffet@spw.wallonie.be;xavier.demarets@spw.wallonie.be;dominique.buecken@dgov.be;rink.kruk@ngi.be
