@@ -28,8 +28,6 @@ Guests:
 -	Code Régional de la Donnée (Eric Auquiere)
 - Networking drink
 
-Dominique welcomed the participants in Namur.
-
 ## Observatorium (Ivy Van De Kerchove Digitaal Vlaanderen, bus. analyst)
 
 ## Status ICEG agreement (Marc Bruyland)
