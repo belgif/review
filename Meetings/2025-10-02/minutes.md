@@ -2,21 +2,22 @@
 Attendees:
 
 - Vlaanderen: eveline.vlassenroot@vlaanderen.be; ziggy.vanlishout@vlaanderen.be
-- BOSA: liesbet.dhondt@bosa.fgov.be; marc.bruyland@bosa.fgov.be;bart.hanssens@bosa.fgov.be;
-- Brussels Gewest: eauquiere@paradigm.brussels; bfricheteau@paradigm.brussels; ahof@gob.brussels; thoogewys@paradigm.be;
-- Fédération Wallonie-Bruxelles: alexandre.delalieu@cfwb.be
-- Région wallonne: dominique.buffet@spw.wallonie.be; xavier.demarets@spw.wallonie.be
+- BOSA: liesbet.dhondt@bosa.fgov.be; marc.bruyland@bosa.fgov.be;
+- Brussels Gewest: eauquiere@paradigm.brussels; 
+- Fédération Wallonie-Bruxelles: 
+- Région wallonne: dominique.buffet@spw.wallonie.be; 
 - Deutschsprachige Gemeinschaft:
-- NGI: rink.kruk@ngi.be
+- NGI: 
 
 Excused:
 
 - Vlaanderen:
-- BOSA : 
-- Brussels Gewest : 
-- Fédération Wallonie-Bruxelles: 
-- Région wallonne: 
+- BOSA : bart.hanssens@bosa.fgov.be;
+- Brussels Gewest : bfricheteau@paradigm.brussels; ahof@gob.brussels; thoogewys@paradigm.be;
+- Fédération Wallonie-Bruxelles: alexandre.delalieu@cfwb.be
+- Région wallonne: xavier.demarets@spw.wallonie.be
 - Deutschsprachige Gemeinschaft: dominique.buecken@dgov.be
+- NGI: rink.kruk@ngi.be
 
 Guests:
 
@@ -24,10 +25,10 @@ Guests:
 -	Status ICEG Agreement
 -	Overview of blocked exercises
 -	Update translation OSLO standards
--	New exercise ?
+-	New exercises ?
 -	Draft agenda items for ICEG Management committee (16/10/2025)
 -	Update belgif website
--	Other topics (please feel free to add)
+-	Next meeting
 - Calendar
 - Action list
 
@@ -40,6 +41,8 @@ So far, alle exercises were administratively handled by Flanders (meaning: contr
 With the new contract other parties could play this role as well.
 For every exercise to be approved by the ICEG committee, this administrative role needs to be confirmed by the ICEG committee. 
 
+**In the future the collaboration agreement should be provided in the 3 official languages.
+Lessons learned should be drawn from this exercise. Flanders will come with a few ideas in the next meeting.**
 
 ## Overview of blocked exercises
 Blocked data standardization exercises: 
@@ -50,23 +53,40 @@ These exercises received a GO from the ICEG Committee of 2024-09-25 to be starte
 
 - Finalization of the Hydrants exercise (18,17 K€)  (contracting party Flanders ? other candidate ?)
 
+**Some reorganization took place at Flanders side: there is now an OSLO team and a separate interoperability team. Flanders will check if they can continue the administrative work around the ICEG standardization work for these exercises by Oct 10th.
+
+Liesbet and Mathieu Tulpinck will align how the hand-over to an external partner can be organised.
+
+A status update will be given in the next ICEG review commitee:
+- Person (Liesbet)
+- BEST (Marc)
+- Hydrants (Rink)**
 
 ## Update translation OSLO standards
-Approach that will be followed: 
+Approach that will be followed: **The work has already started. The IMKL standard is already available in the 4 languages. The goal is that the translated OSLO standards will serve as a starting point for new exercises resulting in a lower cost to finalize an interfederal standard. Next meeting Flanders will present a roadmap for the translations; a demo of a translated standardwill be given as well so that participants in the meeting could give some comments/suggestions.**
 
-## New exercise ? 
-There is room for starting 1 additional standardization exercise. 
+## New exercises ? 
+**There is room for starting 1 additional standardization exercise (+/- 38K€ left). 
+
+Ziggy mentions a new directive in the field of Tourism (https://www.europarl.europa.eu/topics/en/article/20231127STO15403/short-term-rentals-eu-rules-for-more-transparency).
+
+Eric mentions high value data sets. 
+
+Short tracks could be started based on translated OSLO standards.
+**
 
 
 ## Draft agenda items for ICEG Management committee (16/10/2025)
 - small explanation of the new collaboration agreement
 - request to go further with the blocked exercises
 
+**Eric suggests to add a table with the original budget, the blocked budget and the remaining budget for new exercises.**
+
 ## Update belgif website
+**Bert Vannuffelen and Bart Hanssens are occupied with this: translated OSLo standards, communication on ICEG standardization work, Interoperable Europe Act.**
 
-
-## Other topics (please feel free to add)
-
+## Next meeting
+**The next meeting will take place in the premises of NGI on Dec 4 (14-16hr) (to be confirmed by Rink). Plan B is to organize it in the premises of Flanders in Brussels.**
 
 ## Calendar
 - ICEG review committee: 2025-12-04
@@ -76,5 +96,12 @@ There is room for starting 1 additional standardization exercise.
 actions from previous meeting:
 
 new actions:
-- prepare slide deck for ICEG Committee of 16/10
-- presenters at ICEG Committee of 16/10
+- prepare slide deck for ICEG Committee of 16/10 (Marc)
+- presenters at ICEG Committee of 16/10 (Eveline and Marc)
+- lessons learned from the collaboration agreement - improvement suggestions (Eveline)
+- can Flanders continue with the administrative work for the 3 pending exercises ? (Eveline)
+- OSLO translations: roadmap + demo of a translated standard (Eveline)
+- status update Person(Liesbet)
+- status update BEST (Marc)
+- status update Hydrants (Rink)
+- confirm organization of next ICEG review committee at NGI (Rink)
