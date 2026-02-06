@@ -5,20 +5,33 @@ Meeting minutes 15/01/2026
 ##Attendees:
 
 Vlaanderen: eveline.vlassenroot@vlaanderen.be; ziggy.vanlishout@vlaanderen.be; pauline.dewolf@vlaanderen.be; jitse.decock@vlaanderen.be
+
 BOSA: liesbet.dhondt@bosa.fgov.be; marc.bruyland@bosa.fgov.be;
+
 Brussels Gewest: ;
+
 Fédération Wallonie-Bruxelles:
+
 Région wallonne: dominique.buffet@spw.wallonie.be;
+
 Deutschsprachige Gemeinschaft:
+
 NGI: Rink Kruk
 
 Excused:
+
 Vlaanderen:
+
 BOSA : bart.hanssens@bosa.fgov.be;
+
 Brussels Gewest : bfricheteau@paradigm.brussels; ahof@gob.brussels; thoogewys@paradigm.be;
+
 Fédération Wallonie-Bruxelles: alexandre.delalieu@cfwb.be; eauquiere@paradigm.brussels;
+
 Région wallonne: xavier.demarets@spw.wallonie.be
+
 Deutschsprachige Gemeinschaft: dominique.buecken@dgov.be
+
 NGI: rink.kruk@ngi.be
 
 Guests: Jonas De Meulenaere (fedvoc werkgroep)
