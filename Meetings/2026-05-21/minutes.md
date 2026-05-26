@@ -1,4 +1,4 @@
-[Oplijsting structurele overlegorganen DV_federaal(Blad1).csv](https://github.com/user-attachments/files/28252377/Oplijsting.structurele.overlegorganen.DV_federaal.Blad1.csv)# Meeting minutes - ICEG Review Committee - 2026-05-21 (Brussels, BOSA)
+# Meeting minutes - ICEG Review Committee - 2026-05-21 (Brussels, BOSA)
 
 Attendees:
 
