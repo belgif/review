@@ -61,7 +61,7 @@ Excused:
     - Event on Image Interoperability in Brussels: https://fedosc.miraheze.org/wiki/Events/InterFSIIIIF
     - Question Frank Leyman: Which new exercises are starting?
     - Question: What are the interfederal working groups? Is there an overview?
-      Refer to the exercise of Digital Flanders: see [Uploading Oplijsting structurele overlegorganen DV_federaal(Blad1).csv…]()
+      Refer to the exercise of Digital Flanders: see https://github.com/belgif/review/blob/master/Meetings/2026-05-21/Oplijsting%20structurele%20overlegorganen%20DV_federaal(Blad1).csv 
     - Paradigm: Can we make examples to illustrate the relevance of the topics of this working group?
       We need to extend the role of this forum to share experiences on how to implement interoperability.
       Proposal: "Interop Day"
