@@ -37,17 +37,17 @@ Excused:
 
 ## MEETING MINUTES
 - Update Data standardisation exercises:
-  1) ICEG Person
+  1) ICEG Person:  
      Rijksregister was not present at the last meeting as a core team member. 
-  3) ICEG Hydrants
+  2) ICEG Hydrants:  
      Sync call with Rink will be planned, a meeting will be held with all the stakeholders before the publication.
      The draft publication will be sent before the meeting (planned for September).
-  5) Assessment Best
-     No semantic changes in the model
-     Question: Was this mentioned in the BestAdd meeting?
-     Answer: Probably not.
-     Question: Impact on REST-API?
-     Answer: Probably not.
+  3) Assessment Best:  
+     No semantic changes in the model  
+     Question: Was this mentioned in the BestAdd meeting?  
+     Answer: Probably not.  
+     Question: Impact on REST-API?  
+     Answer: Probably not.  
      
 - Update translation exercise
   
@@ -56,19 +56,19 @@ Excused:
 - Varia:
     - Question from SEMIC team with regards to CPSV-Ap, see https://github.com/SEMICeu/CPSV-AP/issues/139
       "How are the different MS handling this issue, how are they dealing with local services?"
-      Mention procedures-steps (OSLO Steps)?
+      Mention procedures-steps (OSLO Steps)?  
       ACTION: Give feedback directly via Github.
     - Event on Image Interoperability in Brussels: https://fedosc.miraheze.org/wiki/Events/InterFSIIIIF
     - Question Frank Leyman: Which new exercises are starting?
-    - Question: What are the interfederal working groups? Is there an overview?
+    - Question: What are the interfederal working groups? Is there an overview?  
       Refer to the exercise of Digital Flanders: see https://github.com/belgif/review/blob/master/Meetings/2026-05-21/Oplijsting%20structurele%20overlegorganen%20DV_federaal(Blad1).csv 
-    - Paradigm: Can we make examples to illustrate the relevance of the topics of this working group?
-      We need to extend the role of this forum to share experiences on how to implement interoperability.
-      Proposal: "Interop Day"
-      Possible topics:
-      - Rest Style Guide: tech working group (peter.vandenbosch@smals.be) together with Rest guidelines VDIP in Flanders            (Laurens Debackere)?
-      - Open Science Cloud initiative: https://fedosc.miraheze.org/wiki/Events/InterFSIIIIF
-      - Data spaces and interoperability - together with BDSA?
+    - Paradigm: Can we make examples to illustrate the relevance of the topics of this working group?  
+      We need to extend the role of this forum to share experiences on how to implement interoperability.  
+      Proposal: "Interop Day"  
+      Possible topics:  
+      - Rest Style Guide: tech working group (peter.vandenbosch@smals.be) together with Rest guidelines VDIP in Flanders            (Laurens Debackere)?  
+      - Open Science Cloud initiative: https://fedosc.miraheze.org/wiki/Events/InterFSIIIIF  
+      - Data spaces and interoperability - together with BDSA?  
      
 Next meeting: 
 3/09/2026, host: Paradigm
