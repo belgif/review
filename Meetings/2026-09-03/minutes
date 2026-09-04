@@ -1,27 +1,31 @@
-# Meeting minutes - ICEG Review Committee - 2026-09-03 (Online) 
+# Meeting minutes - ICEG Review Committee - 2026-09-03 (Online)
 
 Attendees:
 
-- Vlaanderen: eveline.vlassenroot@vlaanderen.be; alexander.potloot@vlaanderen.be;
-- BOSA: liesbet.dhondt@bosa.fgov.be; bart.hanssens@bosa.fgov.be;
-- Brussels Gewest: eauquiere@paradigm.brussels ;
-- Fédération Wallonie-Bruxelles: ;
-- Région wallonne: xavier.demarets@spw.wallonie.be;
-- Deutschsprachige Gemeinschaft: /
+- Vlaanderen: eveline.vlassenroot@vlaanderen.be; alexander.potloot@vlaanderen.be
+- BOSA: liesbet.dhondt@bosa.fgov.be; bart.hanssens@bosa.fgov.be
+- Brussels Gewest: eauquiere@paradigm.brussels
+- Région wallonne: xavier.demarets@spw.wallonie.be
 - NGI: rink.kruk@ngi.be
 
+Guests:
+- valy.vandenbroeck@vlaanderen.be
+
+Excused:
+- Fédération Wallonie-Bruxelles: alexandre.delalieu@cfwb.be
+- Deutschsprachige Gemeinschaft: dominique.buecken@dgov.be
 
 ## AGENDA
 
 - Update Data standardisation exercises:
   1) ICEG Person
   2) ICEG Hydrants
-  3) Assessment BeSt
-  4) Exercise translation of OSLO standards
+  3) Assessment BeStAdd
+- Update translation exercise
 - Agenda ICEG Interoperability Day
 - ICEG Collaboration Agreement (financials)
-- Topics ICEG Management Comité
-- Other?
+- Topics for ICEG Management Committee 18/09/2026
+- Varia
 
 ## MEETING MINUTES
 
@@ -29,76 +33,79 @@ Attendees:
 
 #### 1) ICEG Person
 
-- The ICEG Person trajectory was restarted in May 2026 with all federal and regional partners.
-- During the Business Workshop on 24/06/2026, eight use cases were presented by different partners.
-- Based on the workshop results, the scope was confirmed as the development of an ICEG Person model serving as a national reference model across all levels of government, using the National Register information types as the starting point.
-- Four thematic workshops have been planned:
+- Scope confirmed: development of an ICEG Person model as a national reference model across all government levels, based on National Register information types.
+- Four thematic workshops planned:
   - Core Identification (21/09/2026)
   - Address & Residence (19/10/2026)
   - Family & Civil Status (19/11/2026)
   - Status, Documents & Special Cases (10/12/2026)
-- Documentation, including charter, scope and meeting minutes, is available via GitHub.
-- During the workshops, concepts, attributes, cardinalities, datatypes and relations will be discussed.
-- Deliverables will be published through BELGIF.
+- Documentation, scope, charter and workshop material available via Github.
+- Deliverables will be published on BELGIF.
+- Planning remains end 2026 / Q1 2027.
 
-**Timeline**
-- Consolidation of the model is planned after completion of the fourth thematic workshop.
-- Publication of version 1 is foreseen by the end of 2026 or in Q1 2027.
-
-**Action**
-- The workshop invitations and documentation links will be circulated to the members of the Review Committee.
-- Members are encouraged to forward the invitations to relevant colleagues and stakeholders within their organisations.
+ACTION:
+- Members are requested to disseminate the workshop invitations within their organisations.
 
 #### 2) ICEG Hydrants
 
-- An update was provided on the ICEG Hydrants exercise.
-- The feedback gathered during the previous working group cycle has been processed.
-- In total, 43 change requests were analysed and handled.
-- A draft publication is now available on BELGIF.
-- Some minor technical publication issues remain and are currently being resolved.
+- Review of 43 change requests completed.
+- Draft publication available on BELGIF.
+- Workshop planned for October 2026.
+- Closing webinar planned for November 2026.
 
-**Next steps**
-- Organise a stakeholder workshop in October 2026.
-- Organise a closing webinar in November 2026.
-- Finalise the model based on the feedback received.
-
-**Discussion**
-
-Question (Paradigm):
-- Is it possible to consult the participant lists of the workshops and validation sessions?
+Question:
+- Is it possible to consult the participant list of the workshops?
 
 Answer:
-- The participant lists from the previous workshop cycle remain available in the application profile documentation.
-- These lists will be updated once participation in the new workshop round has been confirmed.
+- Participants from the previous exercise remain visible in the application profile documentation.
+- The list will be updated once participants for the new workshop cycle are confirmed.
 
-Remarks:
-- Paradigm indicated that it would like to verify whether relevant stakeholders from the Brussels Region are sufficiently informed about the exercise and its outcomes.
-- Participants acknowledged that some contacts from the previous exercise may no longer fulfil the same role.
-- Members are therefore encouraged to share the workshop invitations with the appropriate stakeholders in their organisations.
+Remark:
+- Paradigm will verify whether relevant Brussels Region stakeholders are aware of the exercise and results.
 
-#### 3) Assessment BeSt
+#### 3) Assessment BeStAdd
 
-- No discussion recorded.
+- Technical migration towards OSLO Toolchain 4 completed.
+- No semantic changes introduced.
+- Further follow-up required regarding missing URIs and final publication details.
 
-#### 4) Exercise translation of OSLO standards
+### Update translation exercise
 
-- No discussion recorded.
+- First examples of automatically translated standards are available online.
+- Feedback requested on:
+  - translation disclaimer;
+  - language switcher;
+  - overall publication approach.
+- A multilingual standards register example will be prepared for review.
 
-### Agenda ICEG Interoperability Day
+### ICEG Interoperability Day
 
-- No discussion recorded.
+- Proposal presented for an ICEG Interoperability Day on 18/11/2026.
+- Objective: exchange implementation experiences and showcase interoperability in practice.
+- Proposed breakout topics:
+  - REST Style Guides & API Interoperability
+  - Identifiers & Semantic Interoperability
+  - Data Spaces & Emerging Ecosystems
+  - Interoperability Governance
+
+ACTION:
+- Review Committee members to provide feedback on topics, speakers and use cases.
 
 ### ICEG Collaboration Agreement (financials)
 
-- No discussion recorded.
+- Proposal presented to invoice Q1 and Q2 partner contributions based on the agreed contribution key.
+- Financial contact details and invoicing instructions are requested from all partners.
 
-### Topics ICEG Management Comité
+ACTION:
+- Each partner to provide billing contact, PO/IO reference and invoicing requirements.
 
-- No discussion recorded.
+### Topics for ICEG Management Committee
 
-### Other
+- Members invited to propose agenda topics for the ICEG Management Committee meeting of 18/09/2026.
 
-- No additional points recorded.
+### Varia
+
+- No additional remarks.
 
 Next meeting:
-- 17/11/2026 – ICEG Review Committee
+- ICEG Review Committee – 17/11/2026
